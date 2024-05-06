@@ -28,6 +28,7 @@ To use this program:
 **Input:**
 
 hello world hello test world
+
 **Output:**
 Duplicate words:
 hello
